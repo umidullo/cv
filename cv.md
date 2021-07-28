@@ -78,7 +78,7 @@ internship as a front-end developer. My goal is to create soEware tailored to th
 ## Certificates
 
 - CEFR B1 (2019-09)
-- [RSSchool](https://rs.school/) JS/FE2021Q1
+- [RSSchool](https://app.rs.school/certificate/7b04tq14) JS/FE2021Q1
 
 ## English
 
