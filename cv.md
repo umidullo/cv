@@ -26,10 +26,10 @@ internship as a front-end developer. My goal is to create soEware tailored to th
 
 - HTML
 - CSS,SCSS
-- JavaScript(ES5,ES6)
+- JavaScript(ES6+)
 - TypeScript
 
-##### Version Vontrol System
+##### Version Control System
 
 - Git
 
