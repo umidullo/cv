@@ -1,4 +1,4 @@
-# CV | RSSchool
+# CV
 
 <img src="./images/my-photo.jpg" align="left" style="border-radius: 50%; margin-right: 50px" width="250">
 
