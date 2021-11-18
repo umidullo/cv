@@ -41,7 +41,8 @@ internship as a front-end developer. My goal is to create soEware tailored to th
 - VS Code
 - Webstorm
 - Github
-- Figma, AdobeXD
+- Figma
+- AdobeXD
 
 ##### Platforms
 
