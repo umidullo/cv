@@ -28,14 +28,12 @@ internship as a front-end developer. My goal is to create soEware tailored to th
 - CSS,SCSS
 - JavaScript(ES6+)
 - TypeScript
+- React
+- Redux
 
 ##### Version Control System
 
 - Git
-
-##### Frameworks/Libraries
-
-- React(learning)
 
 ##### Tools
 
@@ -57,7 +55,7 @@ internship as a front-end developer. My goal is to create soEware tailored to th
 
 ## Experience (commercial)
 
-### Masshtab proyect-stroy (architecture company) _(2021-02 — current)_
+### Masshtab proyect-stroy (architecture company) _(2021-02 — 2021-05)_
 
 #### Web developer
 
